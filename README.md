@@ -1,3 +1,7 @@
-The Box-model:
+The Box-model: 4.1.2
 
+In HTML-Broders:
   /* broder: */ is a CSS property that adds a border to any web page element. The border has three parts: width, style, and color. The width determines how thick the border is, the style determines how it looks, and the color determines its color.
+
+Box-Sizing Comparison:
+A lesson over standarizing styling by setting ALL HTML elements with border-box sizing
