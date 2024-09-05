@@ -7,7 +7,7 @@ body {
 
 header {
   height: 646px;
-  background: /* top, transparent black */
+  /*background: /* top, transparent black */
   linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), /* bottom, image */
   url(images/hero.jpg);
   background-size: cover;
@@ -24,15 +24,15 @@ header h1 {
   font-family: Futura;
   font-size: 68px;
   text-transform: uppercase;
-  margin-top: 0px;            /* WHAT DOES THIS DO */
-  margin-bottom: 40px;        /* WHAT DOES THIS DO */
+ /* margin-top: 0px;            /* WHAT DOES THIS DO */
+  /*margin-bottom: 40px;        /* WHAT DOES THIS DO */
 header h2 {
   text-align: center;
   color: #fff;
   font-family: 'IM Fell Great Primer', serif;
   font-size: 24px;
-  padding-top: 270px;         /* WHAT DOES THIS DO */
-  margin: 0px;                /* WHAT DOES THIS DO */
+  /*padding-top: 270px;         /* WHAT DOES THIS DO */
+ /* margin: 0px;                /* WHAT DOES THIS DO */
 }
 
 header p {
@@ -45,6 +45,8 @@ header p a {
   background-color: #36b3a8;
   text-decoration: none;
   text-transform: uppercase;
-  padding: 15px 20px;         /* WHAT DOES THIS DO */
-  border-radius: 20px;        /* WHAT DOES THIS DO */
+  /*padding: 15px 20px;         /* WHAT DOES THIS DO */
+  /*border-radius: 20px;        /* WHAT DOES THIS DO */
+}
+
 }
