@@ -1,0 +1,18 @@
+h1 { text-align: center;}
+
+.box {
+  margin: 20px 10%;
+  background-color: #eee;
+  padding: 10px;
+  font-family: arial, sans-serif;
+  text-align: center;
+}
+
+.solid  {  border: 1px solid #000;   }
+.dotted {  border: 1px dotted #000;  }
+.dashed {  border: 1px dashed #000;  }
+.double {  border: 5px double #000;  }
+.groove {  border: 10px groove gray; }
+.ridge  {  border: 10px ridge gray;  }
+.inset  {  border: 10px inset gray;  }
+.outset {  border: 10px outset gray; }
